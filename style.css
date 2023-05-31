@@ -1,13 +1,10 @@
 
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: ;
+  text-align: center;
 }
 
 .calculator {
+  display: inline-block;
   width: 250px;
   padding: 20px;
   background-color: #fff;
